@@ -1,1 +1,1 @@
-Customer Retention Analysis
+Churn Dashboard & Customer Retention Analysis
